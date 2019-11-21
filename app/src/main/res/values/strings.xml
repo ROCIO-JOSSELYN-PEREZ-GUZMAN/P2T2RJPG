@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P2T2RJPG</string>
+    <string name="mos">Mostrar</string>
+    <string name="agre">agregar color</string>
+    <string name="mosco">mostrar color</string>
+    <string name="agregar">Agregar color</string>
+    <string name="mostra">Mostrar</string>
+    <string name="regres">regresar</string>
+</resources>
